@@ -1,4 +1,3 @@
-### Practice week 3 of WWW programming (Java) - Continue lab-week-2
 Create E-commerce website selling phones and accessories
 
 # Backend
